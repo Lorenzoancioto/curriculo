@@ -1,0 +1,49 @@
+body {
+    font-family: Arial, sans-serif;
+    line-height: 1.6;
+    margin: 0;
+    padding: 0;
+    background-color: #927f7f;
+}
+.container {
+    width: 80%;
+    margin: 0 auto;
+    padding: 20px;
+    background: #fff;
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    background-color: rgb(243, 205, 181);
+}
+h1, h2 {
+    color: #333;
+}
+.perfil{
+    align-items: center;
+    border-bottom: 2px solid #ddd;
+    padding-bottom: 20px;
+    margin-bottom: 20px;
+    background-color: rgb(207, 174, 174);
+}
+.imagem {
+    border-radius: 20%;
+    display: flex;
+    float: right;
+}
+.profile-info {
+    max-width: 600px;
+}
+.Escolaridade {
+    margin-bottom: 20px;
+    background-color: antiquewhite;
+}
+.experiências h2 {
+    border-bottom: 2px solid #333;
+    padding-bottom: 5px;
+}
+.experiências{
+    background-color: chocolate;
+}
+
+.certificados{
+    background-color: #333;
+}
